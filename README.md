@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Backend Challenges | Free Code Camp</title>
+    Backend Challenges | Free Code Camp
     <link
       rel="shortcut icon"
       href="https://cdn.hyperdev.com/us-east-1%3A52a203ff-088b-420f-81be-45bf559d01b1%2Ffavicon.ico"
